@@ -72,11 +72,12 @@ This internship project provided valuable practical exposure to machine learning
 
 ## Project Structure
 Survival-Prediction/
-│── Survival from a ship.ipynb      # Main Jupyter Notebook
-│── train.csv                       # Training dataset
-│── eval.csv.xls                    # Evaluation dataset
-│── README.md                       # Project documentation
-│── requirements.txt                # Project dependencies
+
+- │── Survival from a ship.ipynb     -  # Main Jupyter Notebook
+- │── train.csv                      -  # Training dataset
+- │── eval.csv.xls                   -  # Evaluation dataset
+- │── README.md                      -  # Project documentation
+- │── requirements.txt               -  # Project dependencies
 
 ## Requirements.txt
 Pandas, matplotlib, tensorflow
