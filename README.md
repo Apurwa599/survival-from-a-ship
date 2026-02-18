@@ -13,3 +13,6 @@ To train a machine learning model using training data
 To evaluate the model on unseen data
 
 To understand the application of machine learning in classification problems
+
+## Technologies Used:
+Python, Pandas – data manipulation and analysis, Matplotlib – basic visualization, TensorFlow – machine learning model, Jupyter Notebook
