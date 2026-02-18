@@ -31,3 +31,12 @@ The project uses two datasets:
 
 - 0 → Passenger did not survive
 This column is used as the output label for prediction.
+
+## Data Preprocessing:
+- The dataset is loaded using Pandas.
+- The target column survived is separated from the feature set using the pop() method.
+- Remaining columns are used as input features for the model.
+                  train_y = train_x.pop('survived')
+                  eval_y  = eval_x.pop('survived')
+- This step ensures that the model learns only from relevant input features.
+
